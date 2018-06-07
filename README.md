@@ -1,2 +1,2 @@
-# Space-Shooter
-Space shooter game tutorial done in unity. 
+# Cherry IceDOT: The Ice Cream Machine. 
+Platformer 2D game made in Unity. 
